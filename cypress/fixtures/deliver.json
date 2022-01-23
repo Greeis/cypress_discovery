@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "nome": "Graziele Almeida",
+        "cpf": "19100000000",
+        "email": "galmeida@gmail.com",
+        "whatsapp": "11900000000",
+        "endereco": {
+            "cep": "04534011",
+            "rua": "Rua Joaquim Floriano",
+            "numero": "1000",
+            "complemento": "Apto 66",
+            "bairro": "Itaim Bibi",
+            "cidade_uf": "São Paulo/SP"
+        },
+        "metodo_entrega": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    }, 
+    "cpf_inv": {
+        "nome": "Yuki Almeida",
+        "cpf": "1910000000A",
+        "email": "yalmeida@gmail.com",
+        "whatsapp": "11900000000",
+        "endereco": {
+            "cep": "04534011",
+            "rua": "Rua Joaquim Floriano",
+            "numero": "1000",
+            "complemento": "Apto 66",
+            "bairro": "Itaim Bibi",
+            "cidade_uf": "São Paulo/SP"
+        },
+        "metodo_entrega": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "nome": "Justica Almeida",
+        "cpf": "19100000000",
+        "email": "jalmeida.com",
+        "whatsapp": "11900000000",
+        "endereco": {
+            "cep": "04534011",
+            "rua": "Rua Joaquim Floriano",
+            "numero": "1000",
+            "complemento": "Apto 66",
+            "bairro": "Itaim Bibi",
+            "cidade_uf": "São Paulo/SP"
+        },
+        "metodo_entrega": "Van/Carro",
+        "cnh": "cnh-digital.jpg"
+    }
+}
